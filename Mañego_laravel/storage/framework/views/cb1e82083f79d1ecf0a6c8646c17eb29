@@ -1,0 +1,17 @@
+<?php $__env->startSection('content'); ?>
+<div class="container">
+	<div class="row">
+		<div class="col-md-10 col-md-offset-1">
+			<div class="panel panel-success">
+				<div class="panel-heading">About Me</div>
+
+				<div class="panel-body">
+					wazzuup! I'm Randel James L.  Mañego a student studying BSIT in University of Cebu - Main Campus. For now im living in Urgello cebu City but actually im from pinamungajan cebu. Then 18 years of age. Also I am the only son , sounds like its boring but difinitely I have many cousins then feels like they were my brother and sister. I am now a 4th yr student and still studying more about different languanges of programming. My hobbies are playing computer games and playing basketball. Lately im one of the player in CCS Team but sad to say we where not getting into finals.
+					I also love watching movies and searching whats new discoveries. But all the times I watch video or highlights of NBA, because it can helps me improve my skill about basketball. Sometimes I woke up early in the morning to have some traning. For now I want my life to be happy. Enojoy every moment in time. Living life into fullest. And speacially I work hard to aim what I want in life.  	</div>
+			</div>
+		</div>
+	</div>
+</div>
+<?php $__env->stopSection(); ?>
+
+<?php echo $__env->make('app', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
